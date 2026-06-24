@@ -15,3 +15,7 @@ This repository contains 5 security-focused Google Cloud study cases, each backe
 
 ## Evidence standard
 Each case has an /evidence folder with named screenshots to prove configuration, enforcement, and logs.
+
+## Security policy
+Sensitive cloud identifiers, secrets, and unsafe evidence handling concerns are
+covered in [SECURITY.md](SECURITY.md).
