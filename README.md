@@ -6,6 +6,11 @@
 
 This repository contains 5 security-focused Google Cloud study cases, each backed by screenshots and audit-ready reasoning.
 
+## Architecture overview
+The relationship between the cases, the layered security model, and framework
+alignment is documented in
+[docs/architecture-overview.md](docs/architecture-overview.md).
+
 ## Cases
 1. [Cloud Armor: Traffic Blocklisting (WAF at the Edge)](01-cloud-armor-blocklisting/README.md)
 2. [Cloud NGFW: Workload Protection](02-cloud-ngfw-workload-protection/README.md)
